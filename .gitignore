@@ -2,3 +2,14 @@ __MACOSX
 data
 SO_vectors_200.bin_download=1
 stackoverflow_similar_questions.zip
+ML_flow_server/
+# 4
+lstm_basic_model/
+lstm_basic_model_old_eos/
+lstm_basic_model_old_eos_and_break/
+lstm_basic_model_old_last/
+lstm_qkw_attention_model/
+# 6
+mlruns/
+results/
+
