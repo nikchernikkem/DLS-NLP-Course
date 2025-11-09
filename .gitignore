@@ -13,3 +13,4 @@ lstm_qkw_attention_model/
 mlruns/
 results/
 
+.DS_Store
