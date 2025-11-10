@@ -12,5 +12,6 @@ lstm_qkw_attention_model/
 # 6
 mlruns/
 results/
+6 Fine Tuning BERT/logs/
 
 .DS_Store
